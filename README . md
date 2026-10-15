@@ -1,0 +1,20 @@
+# Student Record Academic Management System
+
+## Project Overview
+This project is designed to manage student academic records in an organized way.
+
+## Features
+- Student record management
+- Academic information storage
+- Simple menu-driven interface
+
+## Technology Used
+- Python
+
+## How to Run
+1. Install Python 3.
+2. Open a terminal in the project folder.
+3. Run: python student_management.py
+
+## Author
+Tanuja Bagale
